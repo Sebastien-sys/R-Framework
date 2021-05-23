@@ -1,7 +1,0 @@
-.gitignore
-*.out
-données/sources/*.out
-données/générées/*.out
-scriipts/*.out
-output/*.out
-graphiques/*.out
